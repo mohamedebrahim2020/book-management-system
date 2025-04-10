@@ -13,3 +13,5 @@
 - [php artisan migrate]).
 - [check filament config file]).
 - [php artisan Dusk  for selenium testing]).
+- [make SESSION_DRIVER=file not database to ensure Dusk works well]
+
